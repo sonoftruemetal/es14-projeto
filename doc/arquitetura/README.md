@@ -1,3 +1,3 @@
 # Arquitetura
 
-_ é nóis arquitetanuu _
+_é nóis arquitetanuu
